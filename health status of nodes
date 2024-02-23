@@ -1,0 +1,15 @@
+#!/bin/bash
+
+############################################################
+# Author : Prasad B
+# Date : 23/2/204
+# this will use to know health status of nodes
+
+#########################################################################
+ser -X # Debug mode
+
+df -h
+
+free -g
+
+nbroc
