@@ -14,5 +14,10 @@ free -g
 
 nbroc
 
-pf -ef
+ps -ef
 # to show running prosess in linux
+
+ps -ef | grep "amazon"
+# to show the only amazon running prosess
+
+
