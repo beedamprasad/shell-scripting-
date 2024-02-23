@@ -13,3 +13,6 @@ df -h
 free -g
 
 nbroc
+
+pf -ef
+# to show running prosess in linux
